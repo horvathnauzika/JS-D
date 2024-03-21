@@ -1,0 +1,18 @@
+.kiv {
+    border: 5px solid #BC83E2;
+}
+
+.tartalom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.tartalom .kep{
+    flex: 0 0 33%;
+}
+
+img{
+    width: 75%;
+}
